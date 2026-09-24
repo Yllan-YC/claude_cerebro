@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(**/*.md)",
+      "Edit(**/*.md)",
+      "Write(**/*.md)",
+      "Bash(git status:*)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}

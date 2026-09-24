@@ -1,0 +1,13 @@
+# Obsidian: estado local da interface
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Claude Code: configurações locais
+.claude/settings.local.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.tmp
